@@ -6,7 +6,6 @@ import { FaInstagram } from "react-icons/fa";
 import swimming from "../../../assets/qZone1.png"
 import childClass from "../../../assets/qZone2.png"
 import playGround from "../../../assets/qZone3.png"
-import backgroundImage from "../../../assets/bg.png"
 
 const RightSideNav = () => {
   return (
